@@ -1,0 +1,26 @@
+.todo-content {
+    width: 450px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+.todo-children {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 50px;
+    border-bottom: 1px solid;
+    position: relative;
+}
+.children-first {
+    border-top: 1px solid;
+}
+.btn-all {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: absolute;
+    right: 0;
+}
+.btn {
+    margin-left: 10px;
+}
