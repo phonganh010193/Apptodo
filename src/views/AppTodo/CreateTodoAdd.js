@@ -38,8 +38,7 @@ function CreateTodoAdd(props) {
                         setUserName('');
                         toast.success('wow add easy!')
                     }}
-                >Add11</button>
-                
+                >Add</button>
             </div>
     )
 }
